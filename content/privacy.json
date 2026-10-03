@@ -1,0 +1,40 @@
+{
+  "eyebrow": "Privacy",
+  "heading": "What this site collects",
+  "accent": "collects",
+  "lede": "A short, plain account of what happens to anything you send this site, and how to get in touch about it.",
+  "updated": "Last updated 2 October 2026",
+  "sections": [
+    {
+      "heading": "What the contact form collects",
+      "body": [
+        "The form on the contact page asks for your name, your email address, the service you are interested in, an optional budget range, and a short message. All of it is optional except your name, email address, service and message, which are needed so a reply can be useful.",
+        "Nothing else on this site asks you for anything. There is no account to create, no newsletter to opt into, and no comment or rating system."
+      ]
+    },
+    {
+      "heading": "What happens to it",
+      "body": [
+        "Your message is read by Samad and used for one thing only: to answer your enquiry and, if it turns into a project, to discuss that project with you.",
+        "At the moment the form validates in your browser and does not transmit or store what you type, so nothing is recorded anywhere. When the form is connected to a mail service, that service will hold the message long enough to deliver it and no longer.",
+        "Your details are never sold, rented, or shared with advertisers or analytics providers."
+      ]
+    },
+    {
+      "heading": "This site's own storage",
+      "body": [
+        "This site sets no tracking cookies, runs no analytics scripts, and embeds no third-party trackers, maps, or social media widgets. Nothing about your visit is profiled.",
+        "Your browser and your hosting provider may keep their own ordinary server logs. Those are used only to keep the site working and to investigate abuse."
+      ]
+    },
+    {
+      "heading": "How long anything is kept",
+      "body": [
+        "Enquiry emails are kept while the conversation is active and for a reasonable period afterwards in case a project picks up again. Ask to have them deleted sooner and they will be."
+      ]
+    }
+  ],
+  "contactHeading": "Questions, or want something deleted",
+  "contactBody": "Email and either ask what is held, ask for it to be deleted, or ask anything else about this page. The same address works for new projects.",
+  "changesNote": "If this notice changes, the date at the top of the page changes with it."
+}

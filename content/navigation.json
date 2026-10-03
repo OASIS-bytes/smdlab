@@ -1,0 +1,13 @@
+{
+  "skipToContent": "Skip to content",
+  "openMenu": "Open menu",
+  "closeMenu": "Close menu",
+  "primary": [
+    { "label": "Work", "href": "/#work", "section": "work", "match": "/work" },
+    { "label": "Services", "href": "/#services", "section": "services", "match": null },
+    { "label": "Process", "href": "/#process", "section": "process", "match": null },
+    { "label": "About", "href": "/about", "section": null, "match": "/about" },
+    { "label": "Contact", "href": "/contact", "section": "contact", "match": "/contact" }
+  ],
+  "cta": { "label": "Start a Project", "href": "/contact", "section": "contact", "match": "/contact" }
+}

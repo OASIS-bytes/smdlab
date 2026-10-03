@@ -1,0 +1,24 @@
+{
+  "eyebrow": "Services",
+  "heading": "Four disciplines, one team",
+  "lede": "Design, engineering and storytelling under one roof. The people who design your product are the same people who build it, so nothing gets lost between idea and launch.",
+  "columns": [
+    {
+      "title": "Web Development",
+      "description": "Fast, modern websites and web apps, built to convert visitors into customers."
+    },
+    {
+      "title": "Software Development",
+      "description": "Custom dashboards, tools and platforms that streamline how your business runs."
+    },
+    {
+      "title": "Video Editing",
+      "description": "Promos, product videos and motion stories, edited to hold attention and drive action."
+    },
+    {
+      "title": "Graphic Design",
+      "description": "Logos, brand identities and marketing visuals that make your business unmistakable."
+    }
+  ],
+  "accent": "disciplines"
+}

@@ -1,0 +1,11 @@
+{
+  "eyebrow": "Showreel",
+  "heading": "Watch the work",
+  "accent": "work",
+  "lede": "A short reel of recent projects across web, software, video and identity.",
+  "placeholderLabel": "Showreel video goes here",
+  "placeholderNote": "16:9 · muted · looped",
+  "placeholderHelp": "Drop showreel.mp4 into /public/video and this slot plays it automatically.",
+  "videoSrc": "/video/showreel.mp4",
+  "videoPoster": "/brand/showreel-poster.svg"
+}

@@ -1,0 +1,27 @@
+{
+  "eyebrow": "Testimonials",
+  "heading": "What clients say",
+  "accent": "clients",
+  "lede": "We let the work speak, then let the people we built it with speak too.",
+  "badge": "Website",
+  "items": [
+    {
+      "quote": "SMD Lab understood our brand from the first conversation. The website they built for Delight Kitchen is fast, beautiful and easy for customers to order from. We saw the difference almost immediately.",
+      "name": "Sir Kayode",
+      "role": "CEO",
+      "company": "Delight Kitchen"
+    },
+    {
+      "quote": "They turned our ideas into a clear, professional website that parents and students can navigate with ease. The process was smooth, and they were patient with every revision.",
+      "name": "Management",
+      "role": "Administration",
+      "company": "Nurulhaqq Quranic and Arabic School"
+    },
+    {
+      "quote": "My cakes finally have an online home that matches their quality. SMD Lab delivered on time, listened to what I wanted, and the result looks exactly the way I imagined.",
+      "name": "Meddy",
+      "role": "Founder",
+      "company": "Meddy’s Cake"
+    }
+  ]
+}

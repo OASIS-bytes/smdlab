@@ -1,0 +1,40 @@
+{
+  "statement": "Small parts. Big systems.",
+  "columns": [
+    {
+      "title": "Navigate",
+      "links": [
+        { "label": "Work", "href": "/#work" },
+        { "label": "Services", "href": "/#services" },
+        { "label": "Process", "href": "/#process" },
+        { "label": "About", "href": "/about" },
+        { "label": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Services",
+      "links": [
+        { "label": "Web Development", "href": "/#services" },
+        { "label": "Software", "href": "/#services" },
+        { "label": "Video Editing", "href": "/#services" },
+        { "label": "Graphic Design", "href": "/#services" }
+      ]
+    },
+    {
+      "title": "Studio",
+      "links": [
+        { "label": "Start a Project", "href": "/contact" },
+        { "label": "Selected Work", "href": "/#work" },
+        { "label": "How We Work", "href": "/#process" }
+      ]
+    }
+  ],
+  "elsewhere": [
+    { "label": "Instagram", "href": "https://instagram.com" },
+    { "label": "GitHub", "href": "https://github.com" },
+    { "label": "LinkedIn", "href": "https://linkedin.com" }
+  ],
+  "legal": [{ "label": "Privacy", "href": "/privacy" }],
+  "founderCredit": "Founded and led by Samad.",
+  "copyright": "\u00a9 2026 SMD Lab. All rights reserved."
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 48" width="244" height="48" role="img" aria-label="SMD Lab">
+  <title>SMD Lab</title>
+  <desc>Placeholder primary logo: surface-mount pad mark with the SMD Lab wordmark.</desc>
+
+  <!-- Mark: three pads on a trace, one copper, two ink. Replace with the official asset. -->
+  <g fill="none" stroke-width="1.5" stroke-linecap="square">
+    <path d="M4 24h8v-8h10" stroke="#0B1F17" />
+    <path d="M4 24h8v8h10" stroke="#0B1F17" />
+    <path d="M12 24h14" stroke="#C8782B" />
+  </g>
+  <rect x="22" y="20" width="8" height="8" fill="#C8782B" />
+  <rect x="3" y="21" width="3" height="6" fill="#0B1F17" />
+
+  <text x="46" y="33" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="27" font-weight="600" letter-spacing="0.02em" fill="#0B1F17">SMD</text>
+  <text x="106" y="33" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="27" font-style="italic" font-weight="400" letter-spacing="0.02em" fill="#9A5416">Lab</text>
+  <rect x="146" y="25" width="4" height="4" fill="#C8782B" />
+</svg>

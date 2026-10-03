@@ -1,0 +1,160 @@
+{
+  "labels": {
+    "overview": "Overview",
+    "role": "My role",
+    "services": "Services used",
+    "gallery": "Gallery",
+    "results": "Results",
+    "resultsNote": "Placeholder figures — replace with measured outcomes before launch.",
+    "backToWork": "Back to all work",
+    "nextProject": "Next project"
+  },
+  "projects": [
+    {
+      "slug": "smd-dashboard",
+      "title": "SMD Dashboard",
+      "category": "Software Dashboard",
+      "summary": "A project management and analytics dashboard that tracks projects, revenue and client activity in one place.",
+      "image": {
+        "src": "/work/featured.png",
+        "alt": "SMD Dashboard, a project management and analytics dashboard"
+      },
+      "fill": "moss",
+      "overview": [
+        "An operations team had outgrown a spreadsheet stack. Four hundred people were rebuilding the same three reports every Monday, and each rebuild produced a different number.",
+        "Meridian replaced that with one reporting surface: a shared definition of every metric, a query layer the non-technical team could use directly, and a design system that made new reports cheap to add instead of expensive to design.",
+        "The work was mostly subtraction — fewer charts, one way to filter, and a layout that survives being filled with bad data."
+      ],
+      "role": "I led this end to end: discovery interviews with the operations team, the metric definitions, the interface and design system, and the front-end build. I worked with two back-end engineers on the query layer and wrote the documentation the team still uses.",
+      "services": ["Product design", "Design systems", "Front-end build", "Accessibility", "Technical direction"],
+      "gallery": [
+        { "label": "Placeholder image 1 — Dashboard home", "fill": "moss", "wide": true },
+        { "label": "Placeholder image 2 — Report builder", "fill": "sand", "wide": false },
+        { "label": "Placeholder image 3 — Metric definitions", "fill": "sand", "wide": false },
+        { "label": "Placeholder image 4 — Component library", "fill": "moss", "wide": false },
+        { "label": "Placeholder image 5 — Mobile view", "fill": "sand", "wide": true }
+      ],
+      "results": [
+        { "value": "—", "label": "hours saved per week, reporting" },
+        { "value": "—", "label": "reports retired from spreadsheets" },
+        { "value": "—", "label": "people using the shared definitions" }
+      ]
+    },
+    {
+      "slug": "delight-kitchen",
+      "title": "Delight Kitchen",
+      "category": "Website",
+      "summary": "A website for a Nigerian kitchen serving freshly prepared meals, built so customers can see the menu and order in seconds.",
+      "image": {
+        "src": "/work/work-1.png",
+        "alt": "The Delight Kitchen website, built for a Nigerian kitchen serving freshly prepared meals"
+      },
+      "fill": "sand",
+      "overview": [
+        "Delight Kitchen prepares authentic Nigerian meals fresh every day. Their old online presence made customers hunt for the menu and had no simple way to order, so many hungry visitors left before placing an order.",
+        "The new website keeps everything clear and fast. A mouth-watering hero, a clean menu, and an easy Order Now button are always within reach. Food photography is compressed and served in responsive sizes, so the page loads quickly on a phone, even on a slow connection.",
+        "Everything is built to turn visits into orders: simple navigation, readable prices, delivery information up front, and a layout that works as well on mobile as on desktop."
+      ],
+      "role": "I designed and built the website, optimised the food photography for fast loading, and set up the deployment. I also wrote the copy with Delight Kitchen so each dish is described clearly, from ingredients to delivery details.",
+      "services": ["Website design", "Front-end build", "Food photography editing", "Copywriting"],
+      "gallery": [
+        { "label": "Home", "fill": "sand", "wide": true },
+        { "label": "Menu", "fill": "moss", "wide": false },
+        { "label": "Order", "fill": "moss", "wide": false },
+        { "label": "Delivery and contact", "fill": "sand", "wide": true }
+      ],
+      "results": [
+        { "value": "—", "label": "home page weight" },
+        { "value": "—", "label": "seconds to first paint on 3G" },
+        { "value": "—", "label": "orders per month" }
+      ]
+    },
+    {
+      "slug": "software-dashboard",
+      "title": "Software Dashboard",
+      "category": "Software Dashboard",
+      "summary": "An internal dispatch tool for a logistics team coordinating two hundred daily routes.",
+      "image": {
+        "src": "/work/work-2.png",
+        "alt": "Software Dashboard"
+      },
+      "fill": "moss",
+      "overview": [
+        "Dispatchers were running the day from a wall of paper and a phone. The tool had to be usable at speed, with one hand, in a depot that is too loud to think in.",
+        "Vector Ops puts the whole day on one screen: every route, its current state, and the two exceptions that actually need a decision. Colour is reserved for those exceptions and used nowhere else, so anything red means stop.",
+        "It is keyboard-first throughout. A dispatcher can move a route, reassign a driver and close a job without lifting their hands off the keys."
+      ],
+      "role": "I designed the interface against a week of observation in the depot, built the front end, and wrote the keyboard model. I ran the usability sessions that settled the exception rules.",
+      "services": ["Product design", "Prototyping", "Front-end build", "Usability testing", "Accessibility"],
+      "gallery": [
+        { "label": "Placeholder image 1 — Dispatch board", "fill": "moss", "wide": true },
+        { "label": "Placeholder image 2 — Route detail", "fill": "sand", "wide": false },
+        { "label": "Placeholder image 3 — Exception view", "fill": "sand", "wide": false },
+        { "label": "Placeholder image 4 — Keyboard model", "fill": "moss", "wide": true }
+      ],
+      "results": [
+        { "value": "—", "label": "routes planned per day" },
+        { "value": "—", "label": "reduction in missed exceptions" },
+        { "value": "—", "label": "depot staff trained on it" }
+      ]
+    },
+    {
+      "slug": "what-did-ancient-humans-actually-do-all-day",
+      "title": "What Did Ancient Humans Actually Do All Day?",
+      "category": "Video & Animation",
+      "summary": "Stickman explainer videos for a YouTube channel, edited and animated from script to final cut.",
+      "image": {
+        "src": "/work/work-3.png",
+        "alt": "What Did Ancient Humans Actually Do All Day? a stickman explainer video for the Ink Explainer YouTube channel"
+      },
+      "fill": "sand",
+      "overview": [
+        "Ink Explainer is a YouTube channel that explains big ideas through stickman animation. Each video turns a complex topic, like what life was really like for ancient humans, into a clear, funny and easy-to-follow story that holds attention from the first second.",
+        "I edit and animate the videos from script to final cut. That covers pacing, stickman character animation, sound design, captions and thumbnails, all built around a consistent visual style so every episode feels like part of the same channel.",
+        "Because the style and workflow are repeatable, new episodes can be produced quickly without losing quality, which helps the channel keep a steady upload schedule."
+      ],
+      "role": "I handled the video editing, stickman animation, sound design, thumbnails and final export, working from the channel's scripts.",
+      "services": ["Video editing", "Stickman animation", "Motion graphics", "Thumbnail design"],
+      "gallery": [
+        { "label": "Opening animation", "fill": "sand", "wide": true },
+        { "label": "Character animation", "fill": "moss", "wide": false },
+        { "label": "Captions and sound design", "fill": "moss", "wide": false },
+        { "label": "Thumbnail and end screen", "fill": "sand", "wide": true }
+      ],
+      "results": [
+        { "value": "—", "label": "episodes produced" },
+        { "value": "—", "label": "days per new episode" },
+        { "value": "—", "label": "episodes published per month" }
+      ]
+    },
+    {
+      "slug": "smd-brand-identity",
+      "title": "SMD Brand Identity",
+      "category": "Brand Identity",
+      "summary": "A full identity for a roastery: wordmark, packaging system, and a sign that reads from the road.",
+      "image": {
+        "src": "/work/work-4.png",
+        "alt": "SMD Brand Identity"
+      },
+      "fill": "moss",
+      "overview": [
+        "Northbound roast coffee for sale at markets and in two small shops. The identity had to survive a hand-written chalkboard, a kraft bag, and a shopfront seen from a moving car.",
+        "The wordmark is drawn for distance — wide, low, and unambiguous at the size a customer sees it first. The packaging system is built so a new origin is a colour swap and a label change, not a redesign.",
+        "The shopfront sign was the hardest test. It is one flat colour, one cut shape, and it had to be legible in rain."
+      ],
+      "role": "I drew the identity, built the packaging system, and art-directed the photography. I also wrote the print specifications so the roastery can order directly without us in the loop.",
+      "services": ["Brand identity", "Art direction", "Packaging", "Print specification"],
+      "gallery": [
+        { "label": "Placeholder image 1 — Wordmark", "fill": "moss", "wide": true },
+        { "label": "Placeholder image 2 — Packaging range", "fill": "sand", "wide": false },
+        { "label": "Placeholder image 3 — Shopfront sign", "fill": "sand", "wide": false },
+        { "label": "Placeholder image 4 — Label system", "fill": "moss", "wide": true }
+      ],
+      "results": [
+        { "value": "—", "label": "stockists carrying the range" },
+        { "value": "—", "label": "origins added without a redesign" },
+        { "value": "—", "label": "legibility tested at distance" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "eyebrow": "Contact",
+  "heading": "Start a project",
+  "accent": "project",
+  "lede": "Tell us what you are building. We read every message and reply within two working days.",
+  "form": {
+    "name": { "label": "Name", "placeholder": "Your name" },
+    "email": { "label": "Email", "placeholder": "you@company.com" },
+    "service": {
+      "label": "Service",
+      "placeholder": "Select a service",
+      "options": ["Web & Software", "Video Editing", "Graphic Design", "Not sure"]
+    },
+    "budget": {
+      "label": "Budget",
+      "placeholder": "Select a range (optional)",
+      "options": [
+        "Under $2,500",
+        "$2,500 – $5,000",
+        "$5,000 – $10,000",
+        "$10,000+",
+        "Not sure yet"
+      ]
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "A little about the project, timeline and goals."
+    },
+    "submit": "Send message",
+    "successTitle": "Message ready",
+    "success": "Thanks. This is a placeholder form, so nothing was sent — but the message looks good. Wire it to an inbox to go live.",
+    "note": "Front-end placeholder. No data leaves your browser."
+  },
+  "errors": {
+    "name": "Please enter your name.",
+    "emailRequired": "Please enter your email address.",
+    "emailInvalid": "Please enter a valid email address.",
+    "service": "Please choose a service.",
+    "message": "Please tell us a little more — at least 10 characters."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "eyebrow": "Process",
+  "heading": "From brief to build",
+  "lede": "Seven steps, run in order along one straight line from brief to launch.",
+  "steps": [
+    {
+      "title": "Discover",
+      "summary": "We talk to your team, read the code, and find the constraint that actually matters."
+    },
+    {
+      "title": "Define",
+      "summary": "Scope, success measures and a written plan you can hold us to."
+    },
+    {
+      "title": "Design",
+      "summary": "Type, layout and motion explored as a system rather than a set of pages."
+    },
+    {
+      "title": "Build",
+      "summary": "Production code in small reviewable pieces, shipping early and often."
+    },
+    {
+      "title": "Test",
+      "summary": "Real devices, real content, keyboard paths, and the accessibility checks that matter."
+    },
+    {
+      "title": "Launch",
+      "summary": "Deployment, handover and documentation so your team can carry it."
+    },
+    {
+      "title": "Grow",
+      "summary": "Measurement, iteration and maintenance once the thing is out in the world."
+    }
+  ],
+  "accent": "build"
+}

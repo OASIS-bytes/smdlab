@@ -1,0 +1,55 @@
+{
+  "eyebrow": "About",
+  "heading": "Built with purpose. Designed to last.",
+  "accent": "purpose",
+  "lede": "SMD Lab is a creative technology studio built by a team of developers, designers, and creatives who believe that great digital work starts with clear thinking and thoughtful execution.",
+  "storyLabel": "The story",
+  "story": [
+    {
+      "heading": "Why it exists",
+      "body": [
+        "Big ideas don’t become great businesses by staying on paper.",
+        "SMD lab started with a passion for turning ideas into digital experiences that look sharp, work beautifully, and deliver real value. Today, we help businesses bring those ideas to life through web development, software development, video editing, and graphic design.",
+        "Whether you need a website that wins trust, software that simplifies your work, or visuals that make your brand impossible to overlook, we combine technology and creativity to give you work that helps your business stand out, connect with people, and grow.",
+        "You bring the idea. We build what makes it matter."
+      ]
+    },
+    {
+      "heading": "Who is behind it",
+      "body": [
+        "SMD Lab began with one person, a curiosity for technology, and a love for creating things from scratch.",
+        "What started as a journey into web development gradually grew into a broader creative vision—bringing software, design, and visual storytelling together under one roof.",
+        "Today, SMD Lab exists to help businesses turn ideas into useful products, memorable brands, and digital experiences that actually make a difference. The goal is simple: combine technical thinking with creative craft to build work that clients can be proud of—and that moves their business forward."
+      ]
+    }
+  ],
+  "idea": {
+    "label": "The idea",
+    "heading": "Small parts. Big systems.",
+    "accent": "Big",
+    "body": "Most projects do not fail because the individual pieces were bad. They fail because nothing agreed with anything else. A component library that the marketing pages ignore, a design that the build cannot reach, a video that does not match the site it sits on.",
+    "pull": "So the unit of work is not the part, it is the system. Small parts — a typeface scale, a grid, a component, a cut, a colour — are chosen to fit together, and the whole is judged by whether it still works when you change one of them."
+  },
+  "valuesLabel": "What that means day to day",
+  "valuesHeading": "Three rules we work by",
+  "values": [
+    {
+      "title": "Fewer, better decisions",
+      "body": "We cannot afford to explore ten directions. We pick one, write down why, and defend it."
+    },
+    {
+      "title": "Built to be handed over",
+      "body": "Documentation is part of the deliverable, not a favour. Your team should be able to carry the work without us."
+    },
+    {
+      "title": "No dark patterns",
+      "body": "We do not build interfaces that trick people. If something works only because it is confusing, it is not finished."
+    }
+  ],
+  "cta": {
+    "heading": "Working on something?",
+    "body": "Tell us about it. We read every message and reply within two working days.",
+    "label": "Start a project",
+    "secondaryLabel": "See the work"
+  }
+}

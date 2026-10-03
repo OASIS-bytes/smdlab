@@ -1,0 +1,23 @@
+{
+  "brand": {
+    "name": "SMD Lab",
+    "shortName": "SMD",
+    "founder": "Samad",
+    "tagline": "Small parts. Big systems.",
+    "description": "SMD Lab is a creative technology studio working in web and software development, video editing, and graphic design.",
+    "url": "https://smdlab.studio"
+  },
+  "logo": {
+    "src": "/brand/smd-primary.svg",
+    "alt": "SMD Lab"
+  },
+  "disciplines": [
+    "Web & Software",
+    "Video Editing",
+    "Graphic Design"
+  ],
+  "contact": {
+    "email": "odunolasamad@gmail.com",
+    "location": "Remote, working worldwide"
+  }
+}
