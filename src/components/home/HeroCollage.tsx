@@ -36,7 +36,7 @@ const TILES: TileSpec[] = [
     alt: "Vector Ops, an internal dispatch dashboard for a logistics team",
     sizes: "(min-width: 1024px) 26vw, 85vw",
     stack: "z-20",
-    mobile: "ml-[6%] w-[94%]",
+    mobile: "w-full",
     desktop: "lg:-mt-[10%] lg:ml-[12%] lg:w-[70%]",
   },
   {
@@ -44,7 +44,7 @@ const TILES: TileSpec[] = [
     alt: "Ink Explainer, stickman explainer videos for a YouTube channel",
     sizes: "(min-width: 1024px) 26vw, 80vw",
     stack: "z-30",
-    mobile: "ml-[12%] w-[88%]",
+    mobile: "w-full",
     desktop: "lg:-mt-[10%] lg:ml-[24%] lg:w-[70%]",
   },
 ];
@@ -66,16 +66,19 @@ const TILES: TileSpec[] = [
  */
 export function HeroCollage() {
   return (
-    <div className="flex flex-col gap-5 lg:gap-0">
+    <div className="flex flex-col gap-6 px-4 md:px-0 lg:gap-0">
       {TILES.map((tile, index) => (
         <div
           key={tile.src}
           data-reveal="tile"
           className={cn(
-            "relative flex aspect-[16/10] flex-col overflow-hidden rounded-xl",
+            "relative flex flex-col overflow-hidden",
+            "aspect-[16/10] rounded-xl",
             "border border-ink/10 bg-sand shadow-lg shadow-ink/15",
+            "mx-auto w-full max-w-full",
             tile.stack,
             tile.mobile,
+            "md:mx-0",
             tile.desktop,
           )}
         >
@@ -105,6 +108,8 @@ export function HeroCollage() {
               className={cn(
                 "label-micro absolute right-2.5 top-2.5 z-10 rounded-full bg-cream px-2 py-1",
                 "text-ink shadow-sm ring-1 ring-ink/10",
+                "md:px-2 md:py-1 md:text-xs",
+                "px-1.5 py-0.5 text-[10px]",
               )}
             >
               {String(index + 1).padStart(2, "0")}
