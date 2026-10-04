@@ -5,7 +5,7 @@
     "services": "Services used",
     "gallery": "Gallery",
     "results": "Results",
-    "resultsNote": "Placeholder figures — replace with measured outcomes before launch.",
+    "resultsNote": "",
     "backToWork": "Back to all work",
     "nextProject": "Next project"
   },
@@ -16,8 +16,8 @@
       "category": "Software Dashboard",
       "summary": "A project management and analytics dashboard that tracks projects, revenue and client activity in one place.",
       "image": {
-        "src": "/work/featured.png",
-        "alt": "SMD Dashboard, a project management and analytics dashboard"
+        "src": "/work/smd-dashboard/1-home.png",
+        "alt": "SMD Dashboard, a project management and analytics dashboard home"
       },
       "fill": "moss",
       "overview": [
@@ -28,16 +28,18 @@
       "role": "I worked as the full-stack developer on this project. I designed the interface, built the front end, set up the data layer and APIs behind the dashboard, and handled the deployment.",
       "services": ["Full-stack development", "Front-end build", "Back-end and API", "UI design", "Deployment"],
       "gallery": [
-        { "label": "Placeholder image 1 — Dashboard home", "fill": "moss", "wide": true },
-        { "label": "Placeholder image 2 — Report builder", "fill": "sand", "wide": false },
-        { "label": "Placeholder image 3 — Metric definitions", "fill": "sand", "wide": false },
-        { "label": "Placeholder image 4 — Component library", "fill": "moss", "wide": false },
-        { "label": "Placeholder image 5 — Mobile view", "fill": "sand", "wide": true }
+        { "label": "Dashboard home", "fill": "moss", "wide": true },
+        { "label": "Projects view", "fill": "sand", "wide": false },
+        { "label": "Reports", "fill": "sand", "wide": false },
+        { "label": "Invoices", "fill": "moss", "wide": false },
+        { "label": "Component library", "fill": "sand", "wide": true },
+        { "label": "Mobile view", "fill": "sand", "wide": true }
       ],
+      "resultsIntro": "A demo build showing how SMD Lab designs and ships product interfaces.",
       "results": [
-        { "value": "—", "label": "components built and reused" },
-        { "value": "—", "label": "average API response time (ms)" },
-        { "value": "—", "label": "client views supported" }
+        { "value": "4", "label": "dashboard views built" },
+        { "value": "12", "label": "months of revenue tracked in the chart" },
+        { "value": "100%", "label": "responsive from phone to desktop" }
       ]
     },
     {
