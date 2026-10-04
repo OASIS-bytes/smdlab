@@ -21,12 +21,12 @@
       },
       "fill": "moss",
       "overview": [
-        "An operations team had outgrown a spreadsheet stack. Four hundred people were rebuilding the same three reports every Monday, and each rebuild produced a different number.",
-        "Meridian replaced that with one reporting surface: a shared definition of every metric, a query layer the non-technical team could use directly, and a design system that made new reports cheap to add instead of expensive to design.",
-        "The work was mostly subtraction — fewer charts, one way to filter, and a layout that survives being filled with bad data."
+        "SMD Dashboard is a project management and analytics dashboard designed for agencies and software teams. Tracking projects, revenue, support tickets and client activity usually means jumping between spreadsheets, chat threads and invoicing tools, so nobody sees the full picture in one place.",
+        "I built one clear workspace that brings it together: live stat cards, a 12-month revenue chart, a project pipeline with status and progress, and a recent activity feed. Every number is readable at a glance, and the layout stays clean on both desktop and mobile.",
+        "The interface is fast and simple on purpose. It uses reusable components and a consistent design system, so new views and reports can be added quickly without redesigning the page."
       ],
-      "role": "I led this end to end: discovery interviews with the operations team, the metric definitions, the interface and design system, and the front-end build. I worked with two back-end engineers on the query layer and wrote the documentation the team still uses.",
-      "services": ["Product design", "Design systems", "Front-end build", "Accessibility", "Technical direction"],
+      "role": "I worked as the full-stack developer on this project. I designed the interface, built the front end, set up the data layer and APIs behind the dashboard, and handled the deployment.",
+      "services": ["Full-stack development", "Front-end build", "Back-end and API", "UI design", "Deployment"],
       "gallery": [
         { "label": "Placeholder image 1 — Dashboard home", "fill": "moss", "wide": true },
         { "label": "Placeholder image 2 — Report builder", "fill": "sand", "wide": false },
@@ -35,9 +35,9 @@
         { "label": "Placeholder image 5 — Mobile view", "fill": "sand", "wide": true }
       ],
       "results": [
-        { "value": "—", "label": "hours saved per week, reporting" },
-        { "value": "—", "label": "reports retired from spreadsheets" },
-        { "value": "—", "label": "people using the shared definitions" }
+        { "value": "—", "label": "components built and reused" },
+        { "value": "—", "label": "average API response time (ms)" },
+        { "value": "—", "label": "client views supported" }
       ]
     },
     {
